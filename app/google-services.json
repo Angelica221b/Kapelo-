@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "77042766303",
+    "firebase_url": "https://kapelo1-b54c0.firebaseio.com",
+    "project_id": "kapelo1-b54c0",
+    "storage_bucket": "kapelo1-b54c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77042766303:android:61b6c8b8a203eac6",
+        "android_client_info": {
+          "package_name": "agtzm.kapelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77042766303-j99jeimcbcsv6tq8tp53kb3msf1dbrke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "agtzm.kapelo",
+            "certificate_hash": "cb3e8df5ebc50c8bda97383902e5abe061a3a59f"
+          }
+        },
+        {
+          "client_id": "77042766303-ph2fs9n0a8fdfm5jptat47pnh1pnj6ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5sAvA7GhPjiJUMsESEYkZlzJWWXrC3us"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77042766303-ph2fs9n0a8fdfm5jptat47pnh1pnj6ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
